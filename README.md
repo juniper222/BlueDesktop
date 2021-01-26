@@ -1,2 +1,2 @@
 # BlueDesktop
-Blue desktop icons for whoever needs them.
+BlueDesktop is a project where I try and create as many blue desktop icons as I can. I will update this repository anytime I make a new desktop icon. send requests to projectbluedesktop@gmail.com
